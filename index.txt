@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+        <link  rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.2.5/jquery.mb.YTPlayer.min.js">
+        <link  rel="stylesheet" href="CSS/normalizeyoutube.css">
+        <link rel="stylesheet" href="youtube.css" >
+    <title>Youtube</title>
+  </head>
+    <header>
+          <nav>
+
+              <div class="youtube-list">
+                                      <a href="#">
+                                      <img src="https://yt3.ggpht.com/-9hOT1zElQV4/AAAAAAAAAAI/AAAAAAAAAAA/lGBiR-eQrqg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" alt="Youtube" style="w"></a>
+
+              </div>
+              <div class="SearchBar">
+                          <form class="SearchBar" action="youtube.html" method="post">
+                          <input type="text" placeholder="SearchBar">
+                          <input type='submit'>
+                          </form>
+              </div>
+              <div class="user">
+              <p>user</p>
+
+              </div>
+
+
+
+          </nav>
+
+
+  </header>
+
+
+
+  <body>
+    <main>
+        <section class="test">
+
+                    <div class="p.link">
+                                <P><a href="youtube.com">Guide</p></a>
+                                <p><a href="youtube.com">Kenrick</p>
+                                <p><a href="youtube.com">To watch</P>
+                                <p><a href="youtube.com">Subcriptions</p>
+                                <p><a href="youtube.com">Social</p>
+                                <p><a href="youtube.com">History</p>
+                                <p><a href="youtube.com">watch later</p>
+                      </div>
+                      <div class="video"> <video width="320" height="240" controls>
+                                      <a href="youtube.com" source src="https://www.youtube.com/channel/UCJSSM6ohIReveWtIeLr3Kvw" type="youtube"></a>
+                                      </video>"
+
+                       </div>
+
+          <section>
+
+    </main>
+
+
+
+  </body>
+</html>
