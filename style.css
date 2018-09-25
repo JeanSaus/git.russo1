@@ -1,0 +1,57 @@
+/* reset */
+* {
+  box-sizing: border-box;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* header */
+header a {
+  background: color: #2B3031;
+}
+header  {
+  color: white;
+  padding-left: 0;
+  padding-top: 0;
+}
+/* form */
+
+
+/* event */
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5rem;
+}
+main {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 3rem;
+}
+p {
+  margin-bottom: 1.5rem;
+}
+img {
+  float: right;
+  margin-left: 1rem;
+}
+
+.test{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+/* footer */
